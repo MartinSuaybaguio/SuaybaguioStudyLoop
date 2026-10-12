@@ -1,0 +1,100 @@
+{
+  "oop123": {
+    "name": "OOP123",
+    "salt": "59f07ce0327954a86eaacc4b9ae68c24",
+    "hash": "3b22dc05ec53461a276a6204b0de98c1095eb4d4f2ed8486824db7c837544832",
+    "profile": {
+      "points": 0,
+      "streak": 0,
+      "best_streak": 0,
+      "last_active": "",
+      "achievements": [],
+      "daily_done": {},
+      "deadline_wins": 0,
+      "goals_done": 0,
+      "started_project": false
+    },
+    "goals": []
+  },
+  "oop1234": {
+    "name": "OOP1234",
+    "salt": "8d6ec995c9e421787718476c86d178a9",
+    "hash": "3b411b1fe01681cfdfbdf55c14d5dc4d9e37219ef0255dc0cba295dbd2369723",
+    "profile": {
+      "points": 227,
+      "streak": 1,
+      "best_streak": 1,
+      "last_active": "2026-10-12",
+      "achievements": [
+        "deadline_hero",
+        "goal_getter"
+      ],
+      "daily_done": {
+        "2026-10-12": 2
+      },
+      "deadline_wins": 2,
+      "goals_done": 2,
+      "started_project": false
+    },
+    "goals": [
+      {
+        "title": "OOP Examination",
+        "subject": "OOP",
+        "kind": "Exam",
+        "deadline": "2026-10-20",
+        "difficulty": "Hard",
+        "minutes": 90,
+        "subtasks": [
+          {
+            "title": "List topics to cover",
+            "id": "b486b5a9",
+            "done": true,
+            "completed_on": "2026-10-12"
+          },
+          {
+            "title": "Study each topic",
+            "id": "153582a0",
+            "done": true,
+            "completed_on": "2026-10-12"
+          },
+          {
+            "title": "Take a practice test",
+            "id": "0701c6f5",
+            "done": true,
+            "completed_on": "2026-10-12"
+          },
+          {
+            "title": "Final review",
+            "id": "c3bdeaa2",
+            "done": true,
+            "completed_on": "2026-10-12"
+          }
+        ],
+        "id": "f85e37e0",
+        "done": true,
+        "completed_on": "2026-10-12",
+        "created_on": "2026-10-12"
+      },
+      {
+        "title": "Mathematics Final",
+        "subject": "Maths",
+        "kind": "Exam",
+        "deadline": "2026-10-12",
+        "difficulty": "Hard",
+        "minutes": 90,
+        "subtasks": [
+          {
+            "title": "Finish Examination",
+            "id": "d97fcdc2",
+            "done": true,
+            "completed_on": "2026-10-12"
+          }
+        ],
+        "id": "9cb85d04",
+        "done": true,
+        "completed_on": "2026-10-12",
+        "created_on": "2026-10-12"
+      }
+    ]
+  }
+}
