@@ -1,1 +1,1 @@
-#SuaybaguioStudyLoop
+SuaybaguioStudyLoop
