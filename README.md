@@ -8,6 +8,6 @@ Documentation Update Oct 14th
 - Finalised system code
 
 Documentation Update Oct 19th
-- Examination Date
+- Examination Day
 - System is functional for system demo
 
